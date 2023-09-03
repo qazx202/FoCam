@@ -1,2 +1,1 @@
-
-
+This repository is for an app I developed that placed 4th at AYSI-Hacks Hackathon (2022). FoCam (Focus Camera) accesses one's ADHD when focusing on school work by utilizing machine learning to view patterns through the user's camera and providing resources to improve their conditions.
